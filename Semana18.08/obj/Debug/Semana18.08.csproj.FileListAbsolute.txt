@@ -1,0 +1,12 @@
+C:\Users\jean-\source\repos\Semana18.08\Semana18.08\bin\Debug\semana18.08bdd.mdf
+C:\Users\jean-\source\repos\Semana18.08\Semana18.08\bin\Debug\semana18.08bdd_log.ldf
+C:\Users\jean-\source\repos\Semana18.08\Semana18.08\bin\Debug\Semana18.08.exe.config
+C:\Users\jean-\source\repos\Semana18.08\Semana18.08\bin\Debug\Semana18.08.exe
+C:\Users\jean-\source\repos\Semana18.08\Semana18.08\bin\Debug\Semana18.08.pdb
+C:\Users\jean-\source\repos\Semana18.08\Semana18.08\obj\Debug\Semana18.08.csprojAssemblyReference.cache
+C:\Users\jean-\source\repos\Semana18.08\Semana18.08\obj\Debug\Semana18._08.Form1.resources
+C:\Users\jean-\source\repos\Semana18.08\Semana18.08\obj\Debug\Semana18._08.Properties.Resources.resources
+C:\Users\jean-\source\repos\Semana18.08\Semana18.08\obj\Debug\Semana18.08.csproj.GenerateResource.cache
+C:\Users\jean-\source\repos\Semana18.08\Semana18.08\obj\Debug\Semana18.08.csproj.CoreCompileInputs.cache
+C:\Users\jean-\source\repos\Semana18.08\Semana18.08\obj\Debug\Semana18.08.exe
+C:\Users\jean-\source\repos\Semana18.08\Semana18.08\obj\Debug\Semana18.08.pdb
